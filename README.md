@@ -1,4 +1,4 @@
-###Olá! Sou a Rainara Nogueira
+## Olá! Sou a Rainara Nogueira
 
 - 🔭 Atualmente, estou cursando Ciência da computação pela faculdade Descomplica
 - 🌱 Aprendendo React e TypeScript
