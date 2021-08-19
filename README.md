@@ -9,9 +9,9 @@
 </div>
 
   ##
- 
+ <h6 align = "right">juguito.de.cereza</h6>
  <img align = "right" src="https://cdn.discordapp.com/attachments/877301772597731359/877672530201178182/Completo.gif" alt="Tutorial de CSS" title="GIF" width="150" height="150" />
- <h5 align = "right">juguito.de.cereza</h5>
+ 
   
 ### ⭐ Atualmente, estou cursando Ciência da computação pela faculdade Descomplica. <br>
 ### ⭐ Linguagens que estou aprendendo na XP Gama Academy:  
