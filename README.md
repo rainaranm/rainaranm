@@ -13,8 +13,8 @@
  <img align = "right" src="https://cdn.discordapp.com/attachments/877301772597731359/877672530201178182/Completo.gif" alt="Tutorial de CSS" title="GIF" width="150" height="150" />
  
   
-#### ⭐ Atualmente, estou cursando Ciência da computação pela faculdade Descomplica. <br>
-#### ⭐ Linguagens que estou aprendendo na XP Gama Academy:  
+### ⭐ Atualmente, estou cursando Ciência da computação pela faculdade Descomplica. <br>
+### ⭐ Linguagens que estou aprendendo na XP Gama Academy:  
  <div style="display: inline_block"><br>
   <img align="center" alt="Ícone javaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ícone typeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -24,7 +24,7 @@
   
 </div>
    
- #### ⭐ Fique à vontade para entrar em contato comigo pelo:
+ ### ⭐ Fique à vontade para entrar em contato comigo pelo:
  
   <div>
   <a href="https://www.instagram.com/rainara_nm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
