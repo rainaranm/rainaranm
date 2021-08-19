@@ -14,7 +14,7 @@
  
   
 #### ⭐ Atualmente, estou cursando Ciência da computação pela faculdade Descomplica. <br>
- ⭐ Linguagens que estou aprendendo na XP Gama Academy:  
+#### ⭐ Linguagens que estou aprendendo na XP Gama Academy:  
  <div style="display: inline_block"><br>
   <img align="center" alt="Ícone javaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ícone typeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -24,7 +24,7 @@
   
 </div>
    
- ### ⭐ Fique à vontade para entrar em contato comigo por:
+ #### ⭐ Fique à vontade para entrar em contato comigo por:
  
   <div>
   <a href="https://www.instagram.com/rainara_nm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
