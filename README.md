@@ -6,7 +6,6 @@
   <a href="https://github.com/rainaranm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rainaranm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainaranm&layout=compact&langs_count=7&theme=dracula"/>
-   <img align="right" height="130em" alt="Rai-GIF" src="https://cdn.discordapp.com/attachments/877301772597731359/877672530201178182/Completo.gif">
 </div>
 
   ##
@@ -14,6 +13,7 @@
 ### ⭐ Atualmente, estou cursando Ciência da computação pela faculdade Descomplica. <br>
 ### ⭐ Linguagens que estou aprendendo na XP Gama Academy:  
 <div style="display: inline_block"><br>
+  <img align="right" height="130em" alt="Rai-GIF" src="https://cdn.discordapp.com/attachments/877301772597731359/877672530201178182/Completo.gif">
   <img align="center" alt="Rai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rai-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rai-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
