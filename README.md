@@ -14,11 +14,9 @@
  
   
 ### ⭐ Atualmente, estou cursando Ciência da computação pela faculdade Descomplica. <br>
-### ⭐ Linguagens que estou aprendendo na XP Gama Academy:  
+### ⭐ Linguagens que estou aprendendo:  
  <div style="display: inline_block"><br>
   <img align="center" alt="Ícone javaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ícone typeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ícone React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ícone HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ícone CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
