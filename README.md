@@ -4,7 +4,7 @@
 
  <div>
   <a href="https://github.com/rainaranm">
-  <img height="170em" alt='Pontuação da Rainara'src="https://github-readme-stats.vercel.app/api?username=rainaranm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" alt='Pontuação da Rainara'src="https://github-readme-stats.vercel.app/api?username=rainaranm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" alt = 'Linguagem mais usada por Rainara' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainaranm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
