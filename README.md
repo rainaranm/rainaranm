@@ -1,13 +1,6 @@
 # Olá! Sou a Rainara Nogueira
 
 
-
- <div>
-  <a href="https://github.com/rainaranm">
-  <img height="165em" alt='Pontuação da Rainara'src="https://github-readme-stats.vercel.app/api?username=rainaranm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" alt = 'Linguagem mais usada por Rainara' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainaranm&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
   ##
  <a href= "https://picrew.me/image_maker/1170750"><h6 align = "right">juguito.de.cereza</h6></a>
  <img align = "right" src="https://cdn.discordapp.com/attachments/877301772597731359/877672530201178182/Completo.gif" alt="Tutorial de CSS" title="GIF" width="150" height="150" />
