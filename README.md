@@ -4,7 +4,8 @@
  <img align = "right" src="https://cdn.discordapp.com/attachments/877301772597731359/877672530201178182/Completo.gif" alt="Tutorial de CSS" title="GIF" width="150" height="150" />
  
   
-### ⭐ Atualmente, estou cursando Ciência da computação pela faculdade Descomplica. <br>
+### ⭐ Atualmente, estou cursando Ciência da computação pela faculdade UniAmérica. <br>
+### ⭐ Sou jovem aprendiz no Mercado Livre, na equipe de Intel! <br>
 ### ⭐ Linguagens que estou aprendendo:  
  <div style="display: inline_block"><br>
   <img align="center" alt="Ícone Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
