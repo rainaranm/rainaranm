@@ -21,6 +21,6 @@
   <a href="https://www.linkedin.com/in/rainaranm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-## #30NitesOfCode:
-  ![@rainaran16953 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rainaran16953) <br>
-  [Check out my progress!](https://www.codedex.io/@rainaran16953/30-nites-of-code) 
+## #30NitesOfCode: 
+  ![@rainaranm #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rainaranm)
+  [Check out my progress!](https://www.codedex.io/@rainaranm/30-nites-of-code) 
