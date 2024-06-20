@@ -20,7 +20,3 @@
   <a href = "mailto:rainara.n.moura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rainaranm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-## #30NitesOfCode: 
-  ![@rainaranm #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rainaranm)
-  [Check out my progress!](https://www.codedex.io/@rainaranm/30-nites-of-code) 
